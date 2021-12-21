@@ -1,6 +1,6 @@
-# my_portfolio
+# My Portfolio
 
-A new Flutter project.
+This is the source code for my portfolio available here -> https://portfolio-90d8d.web.app/#/
 
 ## Getting Started
 
